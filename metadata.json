@@ -1,0 +1,6 @@
+{
+  "name": "Wisperia",
+  "description": "An advanced, AI-powered digital book reader and reading productivity companion with 3D page curl effects, summary cards, audiobook conversion, pomodoro focus, levels, and interactive book chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
